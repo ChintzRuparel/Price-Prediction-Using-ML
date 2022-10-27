@@ -26,4 +26,4 @@ KNN is better than Linear Regression, since:
 
 
 Dataset - [NSE-TATAGLOBAL11.csv](https://github.com/ChintzRuparel/Price-Prediction-Using-ML/files/9728063/NSE-TATAGLOBAL11.csv)
-Dataset Approval Pending 
+    
